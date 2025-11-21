@@ -1,3 +1,6 @@
+# Resolução da Questão nivel sênior muro da 3ª fase da OBI2018
+# Autores: Renan e Carlos
+
 MOD = 1_000_000_007
 
 N = int(input())
