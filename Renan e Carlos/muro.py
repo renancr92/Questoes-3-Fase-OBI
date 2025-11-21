@@ -1,5 +1,5 @@
 # Resolução da Questão nivel sênior muro da 3ª fase da OBI2018
-# Autores: Renan e Carlos
+# Autores: Renan Cardoso e Carlos Eduardo
 
 MOD = 1_000_000_007
 
